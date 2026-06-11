@@ -10,14 +10,14 @@
 }
 
 #let group = (
-  "daniele": "Daniele",
-  "gabriel": "Gabriel",
-  "hugo": "Hugo",
   "luca": "Luca",
+  "hugo": "Hugo",
   "silvio": "Silvio",
+  "gabriel": "Gabriel",
+  "daniele": "Daniele",
 )
 
-#for (id, (key, name)) in group.pairs().enumerate(start: 1) {
+#for (id, (key, name)) in group.pairs().enumerate(start: 0) {
   import "questions/" + key + ".typ": question
   [
     == Student #name Section: Research Question #id
