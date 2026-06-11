@@ -20,10 +20,12 @@
   "D": (
     "1": [
       The canonical solutions from EvoEval is only a single implementation per problem. The details of the writer and the environment when it was produced are unknown. Human side of comparison is therefore small and maybe unrepresentative.
-      TODO: finish.
+      Alternative is to recruit multiple developers and let them independently solve the same problem. Varying in experience, coding style, and optimization skills to generalize more.
+      Downside is that recruiting is very time consuming (as Justus Bogner stated in his guest lecture), adds confounding factors (program language proficiency differences, energy-efficiency awareness), which is avoided by canonical solutions.
+      Dillema: canonical solutions has higher reproducability (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real world conditions better but has lower experimental control. 
     ],
     "2": [
-      Write support here... #lorem(10) 
+      Wei Wang, Huilong Ning, Gaowei Zhang, Libo Liu, and Yi Wang. 2024. Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks. Proc. ACM Softw. Eng. 1, FSE, Article 32 (July 2024), 23 pages. https://doi.org/10.1145/3643758
     ],
   )
 )
