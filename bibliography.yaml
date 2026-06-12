@@ -1,3 +1,93 @@
+kalliamvakou_promises_2014:
+  type: article
+  title: The promises and perils of mining GitHub
+  author:
+  - Kalliamvakou, Eirini
+  - Gousios, Georgios
+  - Blincoe, Kelly
+  - Singer, Leif
+  - German, Daniel M.
+  - Damian, Daniela
+  date: 2014-05
+  page-range: 92-101
+  url:
+    value: https://dl.acm.org/doi/10.1145/2597073.2597074
+    date: 2026-06-12
+  serial-number:
+    doi: 10.1145/2597073.2597074
+    isbn: '9781450328630'
+  parent:
+    type: proceedings
+    title: Proceedings of the 11th Working Conference on Mining Software Repositories
+    publisher:
+      name: ACM
+      location: Hyderabad India
 
-# TODO: ...
+wang_rocks_2024:
+  type: misc
+  title: Rocks Coding, Not Development–A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks
+  author:
+  - Wang, Wei
+  - Ning, Huilong
+  - Zhang, Gaowei
+  - Liu, Libo
+  - Wang, Yi
+  date: 2024
+  url: https://arxiv.org/abs/2402.05650
+  serial-number:
+    arxiv: '2402.05650'
 
+haoli_mobile_consumption_2013:
+  type: article
+  title: Estimating mobile application energy consumption using program analysis
+  author:
+  - Hao, Shuai
+  - Li, Ding
+  - Halfond, William G. J.
+  - Govindan, Ramesh
+  date: 2013
+  page-range: 92-101
+  serial-number:
+    doi: 10.1109/ICSE.2013.6606555
+  parent:
+    type: proceedings
+    title: 2013 35th International Conference on Software Engineering (ICSE)
+    issue: ''
+    volume: 0
+
+pinto_efficiency_2014:
+  type: article
+  title: Understanding energy behaviors of thread management constructs
+  author:
+  - Pinto, Gustavo
+  - Castor, Fernando
+  - Liu, Yu David
+  date: 2014-10
+  page-range: 345-360
+  url:
+    value: https://dl.acm.org/doi/10.1145/2660193.2660235
+    date: 2026-06-12
+  serial-number:
+    doi: 10.1145/2660193.2660235
+    isbn: '9781450325851'
+  parent:
+    type: proceedings
+    title: Proceedings of the 2014 {ACM} {International} {Conference} on {Object} {Oriented} {Programming} {Systems} {Languages} & {Applications}
+    publisher:
+      name: ACM
+      location: Portland Oregon USA
+
+eec_via_llms:
+  type: misc
+  title: Generating Energy-Efficient Code via Large-Language Models – Where are we now?
+  author:
+  - Apsan, Radu
+  - Stoico, Vincenzo
+  - Albonico, Michel
+  - Dhar, Rudra
+  - Vaidhyanathan, Karthik
+  - Malavolta, Ivano
+  date: 2025
+  url: https://arxiv.org/abs/2509.10099
+  serial-number:
+    arxiv: '2509.10099'

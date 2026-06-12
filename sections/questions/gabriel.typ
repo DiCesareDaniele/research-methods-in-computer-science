@@ -1,6 +1,6 @@
 #let question = (
   "A": [
-    What is the difference between code developed by a Green software expert and LLM-generated code in terms of energy efficiency?
+    "What is the difference between code developed by a Green software expert and LLM-generated code in terms of energy efficiency?" @eec_via_llms - $R Q_3$
   ],
   "B": [
     As more developers rely on AI tools to produce code faster, the volume of code that is generated and deployed is also likely to increase. This makes it important to evaluate code not only for functional correctness, but also for non-functional qualities such as energy efficiency. In many cases, developers focus primarily on functionality and may overlook sustainability concerns. Therefore, it is valuable to understand how LLM-generated code compares with code written by a Green software expert in terms of energy efficiency, since this can have significant implications for the sustainability of software applications and the environment.
@@ -16,7 +16,7 @@
       The fundamental trade-off between the original method and this alternative is that the physical execution provide a direct measurement of energy consumption, which is a more concrete and empirical approach. In contrast, the taxonomical method relies on theoretical analysis. By classifying and labeling the code based on its structural features, the risk is that it may not capture the real-world energy consumption accurately.
     ],
     "2": [
-      S. Hao, D. Li, W. G. J. Halfond, and R. Govindan. Estimating mobile application energy consumption using program analysis. In Proceedings of the 2013 International Conference on Software Engineering, pages 92–101, 2013.
+      Literature support can be found at @haoli_mobile_consumption_2013.
     ],
   ),
 )

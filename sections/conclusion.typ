@@ -1,13 +1,13 @@
 
 = Conclusion & Reference List
 
-#lorem(20)
+TODO: write conclusion & reference here... #lorem(20)
 
 == Conclusion
 
-#lorem(40)
+TODO: write conclusion here... #lorem(20)
 
 == Reference List
 
-#lorem(40)
+TODO: write reference here... #lorem(20)
 

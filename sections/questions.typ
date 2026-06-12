@@ -3,8 +3,6 @@
 
 = Research Questions & Methodology
 
-#lorem(20)
-
 #let sec = context {
   counter(heading).get().at(0)
 }
@@ -17,7 +15,7 @@
   "daniele": "Daniele",
 )
 
-#for (id, (key, name)) in group.pairs().enumerate(start: 0) {
+#for (id, (key, name)) in group.pairs().enumerate(start: 1) {
   import "questions/" + key + ".typ": question
   [
     == Student #name Section: Research Question #id

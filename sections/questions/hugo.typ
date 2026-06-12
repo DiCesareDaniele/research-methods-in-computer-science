@@ -1,12 +1,12 @@
 #let question = (
   "A": [
-    What is the difference between human code and LLM-generated code in terms of energy-efficiency?
+    "What is the difference between human code and LLM-generated code in terms of energy-efficiency?" @eec_via_llms - $R Q_1$
   ],
   "B": [
     In software creation, tools that use LLMs to generate code are used more often by new and experienced developers.
     Before this paper, research was mainly focussed on performance, readability, and maintainability of LLM generated code. Energy-efficiency has received (far less) attention in prior research, while software sustainability and Green AI are becoming more important in research and industry.
     If LLM-generated code is systematically less energy efficient than code by human developers, then widespread adaption of tools using these LLMs leads to large-scale energy waste.
-    Before being able to investigate RQ2 and RQ3, we first must understand how LLM-generated code performs relative to human written code (RQ1), as a baseline.
+    Before being able to investigate $R Q_2$ and $R Q_3$, we first must understand how LLM-generated code performs relative to human written code ($R Q_1$), as a baseline.
   ],
   "C": [
     Quantitative, empirical research design structured as a controlled experiment.
@@ -25,7 +25,7 @@
       Dillema: canonical solutions has higher reproducability (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real world conditions better but has lower experimental control. 
     ],
     "2": [
-      Wei Wang, Huilong Ning, Gaowei Zhang, Libo Liu, and Yi Wang. 2024. Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks. Proc. ACM Softw. Eng. 1, FSE, Article 32 (July 2024), 23 pages. https://doi.org/10.1145/3643758
+      Literature support can be found at @wang_rocks_2024.
     ],
   )
 )
