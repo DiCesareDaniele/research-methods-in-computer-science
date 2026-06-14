@@ -22,10 +22,10 @@
       The canonical solutions from EvoEval is only a single implementation per problem. The details of the writer and the environment when it was produced are unknown. Human side of comparison is therefore small and maybe unrepresentative.
       Alternative is to recruit multiple developers and let them independently solve the same problem. Varying in experience, coding style, and optimization skills to generalize more.
       Downside is that recruiting is very time consuming (as Justus Bogner stated in his guest lecture), adds confounding factors (program language proficiency differences, energy-efficiency awareness), which is avoided by canonical solutions.
-      Dillema: canonical solutions has higher reproducability (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real world conditions better but has lower experimental control. 
+      Dillema: canonical solutions has higher reproducability (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real world conditions better but has lower experimental control.
     ],
     "2": [
       Literature support can be found at @wang_rocks_2024.
     ],
-  )
+  ),
 )

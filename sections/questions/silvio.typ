@@ -13,10 +13,10 @@
   ],
   "D": (
     "1": [
-      Write dilemma here... #lorem(10) 
+      Write dilemma here... #lorem(10)
     ],
     "2": [
-      Write support here... #lorem(10) 
+      Write support here... #lorem(10)
     ],
-  )
+  ),
 )

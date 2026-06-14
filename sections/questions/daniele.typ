@@ -17,5 +17,5 @@
     "2": [
       In @pinto_efficiency_2014, on their research on software energy consumption, instead of just tracking raw system power, they utilized micro-architectural profiling metrics like context switches and OS thread overhead to explain the exact hardware mechanics causing code to use more energy.
     ],
-  )
+  ),
 )

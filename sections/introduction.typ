@@ -3,10 +3,10 @@
 
 == Context & Background
 Over the past few years, software engineering suffered a drastic change when it comes to the way that software is being produced and how fast it is being produced. One of the main factors
-that contributed to this drastic changed is represented by the emergence of Large Language Models (LLMs). Large Language Models were at first seen only as a tool that software developers 
+that contributed to this drastic changed is represented by the emergence of Large Language Models (LLMs). Large Language Models were at first seen only as a tool that software developers
 used to replace traditional ways of learning like a simple search on the internet (e.g. StackOverflow), that would end up taking hours of their time. Nowadays, they became actual coding assistants,
 that sometimes generate a large part of the code that goes into production, making software a lot more efficient to produce, as software engineers only need to review the code that would have
-otherwise be written by themselves in a much longer time. Despite all these advantages, we have to raise the question that is being raised in every other major field, which is how sustainable 
+otherwise be written by themselves in a much longer time. Despite all these advantages, we have to raise the question that is being raised in every other major field, which is how sustainable
 the code that we are producing with these LLMs is.
 
 == Problem Statement
