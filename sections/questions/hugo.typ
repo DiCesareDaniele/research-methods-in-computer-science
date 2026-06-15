@@ -10,7 +10,8 @@
   ],
   "C": [
     Quantitative, empirical research design structured as a controlled experiment.
-    Study design follows guidelines for empirical software engineering [60, 78] and energy efficiency assessment [26, 43].
+    Study design follows guidelines for empirical software engineering @shull_guide_2008 @wohlin_experimentation_2014 and energy efficiency assessment @achim_development_2024 @garcia_process_2021.
+
     Independent variable: code producer (human or LLM). Dependent variable: energy consuption.
     Energy consumption can differ between machines, therefore doing experiments on server, pc, raspberry.
     Canonical solutions: human written solutions in EvoEval benchmark.

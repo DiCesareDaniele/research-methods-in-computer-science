@@ -91,3 +91,93 @@ eec_via_llms:
   url: https://arxiv.org/abs/2509.10099
   serial-number:
     arxiv: '2509.10099'
+
+shull_guide_2008:
+  type: book
+  title: Guide to Advanced Empirical Software Engineering
+  author:
+  - Shull, Forrest
+  - Singer, Janice
+  - Sjøberg, Dag I K
+  - name: Service
+    given-name: Springerlink
+    prefix: (Online
+  date: 2008
+  publisher:
+    name: Springer London
+    location: London
+  serial-number:
+    isbn: '9781848000445'
+
+wohlin_experimentation_2014:
+  type: book
+  title: Experimentation in software engineering
+  author:
+  - Wohlin, Claes
+  - Runeson, Per
+  - HöstMartin
+  - Ohlsson, Magnus C
+  - Regnell, Björn
+  - Wesslén, Anders
+  date: 2014
+  publisher:
+    name: Springer Berlin
+    location: Berlin
+  serial-number:
+    isbn: '9783642432262'
+
+achim_development_2024:
+  type: article
+  title: Development and evaluation of a reference measurement model for assessing the resource and energy efficiency of software products and components—Green Software Measurement Model (GSMM)
+  author:
+  - Guldner, Achim
+  - Bender, Rabea
+  - Calero, Coral
+  - Fernando, Giovanni S.
+  - Funke, Markus
+  - Gröger, Jens
+  - Hilty, Lorenz M.
+  - Hörnschemeyer, Julian
+  - Hoffmann, Geerd-Dietger
+  - Junger, Dennis
+  - Kennes, Tom
+  - Kreten, Sandro
+  - Lago, Patricia
+  - Mai, Franziska
+  - Malavolta, Ivano
+  - Murach, Julien
+  - Obergöker, Kira
+  - Schmidt, Benno
+  - Tarara, Arne
+  - De Veaugh-Geiss, Joseph P.
+  - Weber, Sebastian
+  - Westing, Max
+  - Wohlgemuth, Volker
+  - Naumann, Stefan
+  date: 2024
+  page-range: 402-418
+  url: https://www.sciencedirect.com/science/article/pii/S0167739X24000384
+  serial-number:
+    doi: https://doi.org/10.1016/j.future.2024.01.033
+    issn: 0167-739X
+  parent:
+    type: periodical
+    title: Future Generation Computer Systems
+    volume: 155
+
+garcia_process_2021:
+  type: article
+  title: A process for analysing the energy efficiency of software
+  author:
+  - Mancebo, Javier
+  - García, Félix
+  - Calero, Coral
+  date: 2021-06
+  page-range: '106560'
+  serial-number:
+    doi: https://doi.org/10.1016/j.infsof.2021.106560
+  parent:
+    type: periodical
+    title: Information and Software Technology
+    volume: 134
+

@@ -3,6 +3,8 @@
 
 = Research Questions & Methodology
 
+In this section, we analyze each of the paper's research questions (RQs), contextualize and explain the relevance of each question, and detail the steps and design choices the authors implemented to answer them. We also propose a non-trivial alternative method that the authors could have used, and we explain why choosing between the original and this alternative represents a real decision dilemma. To support our alternative, we cite existing literature.
+
 #let sec = context {
   counter(heading).get().at(0)
 }

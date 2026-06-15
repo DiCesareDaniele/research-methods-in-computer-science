@@ -17,7 +17,3 @@
 #include "sections/questions.typ"
 #include "sections/conclusion.typ"
 
-#pagebreak()
-
-#bibliography("bibliography.yaml", full: true)
-
