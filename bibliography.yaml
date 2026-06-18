@@ -213,7 +213,7 @@ lacher_performance_llm_code_2026:
   doi: "10.1007/978-3-032-22205-3_13"
 
 ssrn_6810423:
-  type: webpage
+  type: web
   title: "SSRN Paper 6810423"
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810423"
 
@@ -259,3 +259,13 @@ peng_impact_2023:
   url: https://arxiv.org/abs/2302.06590
   serial-number:
     arxiv: '2302.06590'
+
+bhattacherjee_social_science_2012:
+  type: book
+  title: "Social Science Research: Principles, Methods, and Practices"
+  author:
+  - Bhattacherjee, Anol
+  date: 2012
+  collection-title: Textbooks Collection
+  collection-number: 3
+  url: http://scholarcommons.usf.edu/oa_textbooks/3
