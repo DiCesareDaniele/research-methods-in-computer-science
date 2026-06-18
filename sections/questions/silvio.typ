@@ -14,7 +14,7 @@
           To achieve this, the prompting strategy should also be changed. As system program complexity grows, multiple prompts could be needed to adjust and fix issues with the implementation. Because of this, a significant part of the project would revolve around the prompt engineering stage. Understandably, in the context of the overall paper, this design would have been hard to implement and would have required significant changes to the rest of the research questions. This different methodology would allow for a more detailed understanding of how an LLM can handle efficient resource management across complex systems, which better represent commonly occurring workloads. 
     ],
     "2": [
-      Write support here... #lorem(10)
+      The paper at @ssrn_6810423 investigates the performance of LLM-generated code but puts more emphasis on prompt engineering, iterative improvements, and correctness of the generated code. The second paper at @lacher_performance_llm_code_2026 also tries to answer a similar question to the research paper being analyzed in this review, with the main difference being in the experimental setup, namely the energy measurements being taken at the resource level (i.e., individual measurements for CPU, memory). 
     ],
   ),
 )
