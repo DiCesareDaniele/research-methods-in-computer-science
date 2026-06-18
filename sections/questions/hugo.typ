@@ -4,6 +4,10 @@
   ],
   "B": [
     In software creation, tools that use LLMs to generate code are used more often by new and experienced developers.
+    These tools are increasingly replacing code that would have been human-written.
+    Therefore, the relevant question is whether this shift improves or worsens energy consumption.
+    Human-written code is the logical place of comparison, as it represents what LLM-generated code is replacing in practice.
+
     Before this paper, research was mainly focused on the performance, readability, and maintainability of LLM-generated code. Energy efficiency has received (far less) attention in prior research, while software sustainability and Green AI are becoming more important in research and industry.
     If LLM-generated code is systematically less energy-efficient than code by human developers, then widespread adoption of tools using these LLMs leads to large-scale energy waste.
     Before being able to investigate $R Q_2$ and $R Q_3$, we first must understand how LLM-generated code performs relative to human-written code ($R Q_1$), as a baseline.
