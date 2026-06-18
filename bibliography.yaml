@@ -198,6 +198,27 @@ islam_evaluating_2025:
   serial-number:
     arxiv: "2505.20324"
 
+
+lacher_performance_llm_code_2026:
+  type: chapter
+  author:
+    - Lacher, Lisa
+    - Lewis, Mark
+    - Ruetschle, Elizabeth
+    - Sickafoose, Amanda
+  title: "Performance of LLM-Generated Code"
+  date: 2026-05
+  page: 175-189
+  isbn: "978-3-032-22204-6"
+  doi: "10.1007/978-3-032-22205-3_13"
+
+ssrn_6810423:
+  type: webpage
+  title: "SSRN Paper 6810423"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810423"
+
+
+
 xia_top_leaderboard_2024:
   type: misc
   title: "Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving Coding Benchmarks via LLM"
