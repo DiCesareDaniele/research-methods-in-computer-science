@@ -16,7 +16,7 @@
       The fundamental trade-off between the original method and this alternative is that the physical execution provide a direct measurement of energy consumption, which is a more concrete and empirical approach. In contrast, the taxonomical method relies on theoretical analysis. By classifying and labeling the code based on its structural features, the risk is that it may not capture the real-world energy consumption accurately.
     ],
     "2": [
-      Literature support can be found at @haoli_mobile_consumption_2013.
+      Literature support can be found at @haoli_mobile_consumption_2013. In this paper, a static approach for code analysis is used. The researchers chose this method because it is lightweight and provides developers with quick and highly detailed estimates, down to a single line of source code. This strategy avoids the need for expensive physical power monitors or slow software simulators. The analysis time is fast and it can be integrated directly into a developer's IDE.
     ],
   ),
 )
