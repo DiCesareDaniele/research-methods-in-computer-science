@@ -51,10 +51,10 @@
     #text(size: doc-size)[#date]
   ]
   v(0.75em)
-  outline()
+  outline(depth: 2)
 
   // heading
-  set heading(numbering: "1.1  ")
+  set heading(numbering: "1.1.A")
   // h1
   show heading.where(level: 1): set heading(numbering: "1  ")
   show heading.where(level: 1): set text(size: h1-size)

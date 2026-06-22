@@ -2,12 +2,12 @@
 
 group="Group18"
 course="research_methods_in_cs"
-version="draft_1"
+version="draft_2"
 output="${group}_${course}_${version}.pdf"
 
 build_dir="build"
 
-mkdir "$build_dir"
+mkdir -p "$build_dir"
 
 typst compile main.typ "$build_dir/$output"
 

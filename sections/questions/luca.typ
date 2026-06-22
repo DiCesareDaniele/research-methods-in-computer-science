@@ -12,9 +12,8 @@
   "C": [
     We aim to select the top 6 accessible, unique LLMs in the difficult category of the EvoVal leaderboard, as of July 2024, based on two main criteria:
     
-    *Accessbility:* the model is either open-source of available through API.
-
-    *Uniqueness:* the model uses a different base model compared to the other already-chosen LLMs.
+    - *Accessbility:* the model is either open-source of available through API.
+    - *Uniqueness:* the model uses a different base model compared to the other already-chosen LLMs.
 
     This will imply choosing LLMs created by different companies, such as OpenAI (ChatGPT), DeepSeek (DeepSeek), Meta (Codellama), or BudEcosystem (CodeMillenials)
 
@@ -31,10 +30,10 @@
   "D": (
     "1": [
       A fundamentally different approach could consist of different choices in the following aspects of the study:
-      + *LLM selection* - Choose more LLMs that vary in more different ways, not just architecture or parameters. The variety could consist of availability (open-source or closed-source) or of LLMs chosen specifically from big tech companies like Amazon, Google, or Meta. This would generalize the comparison and results even more.
-      + *Problem selection* - Increase the variety once again in this aspect of the study by choosing significantly more problems that vary not only in algorithmic categories,but also in difficulty.
-      + *Hardware platform selection* - Only choose one hardware platform.
-      + *Energy measurement* - Instead of using tools like EnergiBridge and Monsoon, use a more accessible tool, like the `perf` Linux tool.
+      + *LLM Selection*: choose more LLMs that vary in more different ways, not just architecture or parameters. The variety could consist of availability (open-source or closed-source) or of LLMs chosen specifically from big tech companies like Amazon, Google, or Meta. This would generalize the comparison and results even more.
+      + *Problem Selection*: increase the variety once again in this aspect of the study by choosing significantly more problems that vary not only in algorithmic categories,but also in difficulty.
+      + *Hardware Platform Selection*: only choose one hardware platform.
+      + *Energy Measurement*: instead of using tools like EnergiBridge and Monsoon, use a more accessible tool, like the `perf` Linux tool.
 
       The dilemma of choosing between the two methodologies is based on multiple trade-offs. Firstly, the new methodology would provide far greated external validity, as results can be questioned much easier when they are based upon a small number of LLMs or problems.
 
