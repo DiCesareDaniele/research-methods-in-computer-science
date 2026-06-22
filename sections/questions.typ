@@ -7,7 +7,7 @@ In this section, we analyze each of the paper's research questions (RQs), contex
   "luca": "Luca LN",
   "hugo": "Hugo LN",
   "silvio": "Silvio LN",
-  "gabriel": "Gabriel LN",
+  "gabriel": "Gabriel Marica",
   "daniele": "Daniele Di Cesare",
 )
 
