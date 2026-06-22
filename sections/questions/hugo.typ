@@ -1,6 +1,6 @@
 #let question = (
   "A": [
-    "What is the difference between human code and LLM-generated code in terms of energy-efficiency?" @eec_via_llms - $R Q_1$
+    "What is the difference between human code and LLM-generated code in terms of energy-efficiency?" #box[(@eec_via_llms - $R Q_1$)]
   ],
   "B": [
     In software creation, tools that use LLMs to generate code are used more often by new and experienced developers.

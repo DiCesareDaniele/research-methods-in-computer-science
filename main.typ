@@ -13,6 +13,9 @@
 
 #pagebreak()
 
+// force this citation to be first
+#let _ = cite(<eec_via_llms>)
+
 #include "sections/introduction.typ"
 #include "sections/questions.typ"
 #include "sections/conclusion.typ"

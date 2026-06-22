@@ -1,6 +1,6 @@
 #let question = (
   "A": [
-    "What is the difference between code developed by a Green software expert and LLM-generated code in terms of energy efficiency?" @eec_via_llms - $R Q_3$
+    "What is the difference between code developed by a Green software expert and LLM-generated code in terms of energy efficiency?" #box[(@eec_via_llms - $R Q_3$)]
   ],
   "B": [
     As more developers rely on AI tools to produce code faster, the volume of code that is generated and deployed is also likely to increase. This makes it important to evaluate code not only for functional correctness, but also for non-functional qualities such as energy efficiency. In many cases, developers focus primarily on functionality and may overlook sustainability concerns. Therefore, it is valuable to understand how LLM-generated code compares with code written by a Green software expert in terms of energy efficiency, since this can have significant implications for the sustainability of software applications and the environment.

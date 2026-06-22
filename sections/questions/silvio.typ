@@ -1,6 +1,6 @@
 #let question = (
   "A": [
-    "What is the impact of prompt engineering techniques on the energy efficiency of LLM-generated code?" @eec_via_llms - $R Q_2$
+    "What is the impact of prompt engineering techniques on the energy efficiency of LLM-generated code?" #box[(@eec_via_llms - $R Q_2$)]
   ],
   "B": [
     - *Relevance:* Prompt engineering is an emerging field that tries to determine the optimal prompt structure to obtain LLM outputs tailored to certain requirements. At a deeper level, the question is trying to establish whether it is worth it to invest time and resources in prompt engineering in an energy-saving context.
