@@ -5,7 +5,7 @@ In this section, we analyze each of the paper's research questions (RQs), contex
 
 #let group = (
   "luca": "Luca LN",
-  "hugo": "Hugo LN",
+  "hugo": "Hugo Hulsebosch",
   "silvio": "Silvio LN",
   "gabriel": "Gabriel Marica",
   "daniele": "Daniele Di Cesare",
