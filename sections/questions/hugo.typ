@@ -35,7 +35,7 @@
     ],
     "2": [
       A recent study using the alternative method is Wang et al. @wang_rocks_2024, who used this approach in comparing different LLMs on software engineering tasks. They recruited 109 developers with at least one year of professional developer experience to independently solve coding tasks.
-      Moreover, a foundational study by Prechelt @prechelt_empirical_2000 uses a similar style. In this study, 74 programmers implemented the same problem independently. An important finding from this paper is that the variation between programmers in the same language was often bigger than variation between languages. This shows that a single canonical solution from EvoEval might not represent how different programmers approach the same problem.
+      Moreover, a foundational study by Prechelt @prechelt_empirical_2000 uses a similar style. In this study, 80 programmers implemented the same problem independently. An important finding from this paper is that the variation between programmers in the same language was often bigger than variation between languages. This shows that a single canonical solution from EvoEval might not represent how different programmers approach the same problem.
     ],
   ),
 )
