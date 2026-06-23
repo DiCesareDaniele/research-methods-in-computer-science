@@ -31,10 +31,11 @@
       The canonical solutions from EvoEval are only a single implementation per problem: the details of the writer and the environment in which it was produced are unknown. The human side of comparison is therefore small and maybe unrepresentative.
       An alternative is to recruit multiple developers and let them independently solve the same problem. Varying in experience, coding style, and optimization skills to generalize more.
       Downside is that recruiting is very time-consuming (as Justus Bogner stated in his guest lecture), adds confounding factors (program language proficiency differences, energy-efficiency awareness), which are avoided by canonical solutions.
-      Dilemma: canonical solutions have higher reproducability (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real-world conditions better but has lower experimental control.
+      Dilemma: canonical solutions have higher reproducibility (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real-world conditions better but has lower experimental control.
     ],
     "2": [
-      Literature support can be found at @wang_rocks_2024.
+      A recent study using the alternative method is Wang et al. @wang_rocks_2024, who used this approach in comparing different LLMs on software engineering tasks. They recruited 109 developers with at least one year of professional developer experience to independently solve coding tasks.
+      Moreover, a foundational study by Prechelt @prechelt_empirical_2000 uses a similar style. In this study, 74 programmers implemented the same problem independently. An important finding from this paper is that the variation between programmers in the same language was often bigger than variation between languages. This shows that a single canonical solution from EvoEval might not represent how different programmers approach the same problem.
     ],
   ),
 )

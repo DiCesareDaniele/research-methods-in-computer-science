@@ -37,6 +37,23 @@ wang_rocks_2024:
   serial-number:
     arxiv: '2402.05650'
 
+prechelt_empirical_2000:
+  type: article
+  title: An Empirical Comparison of Seven Programming Languages
+  author:
+  - Prechelt, Lutz
+  date: 2000
+  page-range: 23-29
+  url: https://doi.org/10.1109/2.876288
+  serial-number:
+    doi: 10.1109/2.876288
+  parent:
+    type: periodical
+    title: Computer
+    volume: 33
+    issue: 10
+
+
 haoli_mobile_consumption_2013:
   type: article
   title: Estimating mobile application energy consumption using program analysis
