@@ -193,6 +193,18 @@ islam_evaluating_2025:
   serial-number:
     arxiv: "2505.20324"
 
+goyal_energy_estimation_2026:
+  type: misc
+  title: 'EnCoDe: Energy Estimation of Source Code At Design-Time'
+  author:
+  - Goyal, Shailender
+  - Matathammal, Akhila
+  - Vaidhyanathan, Karthik
+  date: 2026
+  url: https://arxiv.org/abs/2605.00504
+  serial-number:
+    arxiv: '2605.00504'
+
 lacher_performance_llm_code_2026:
   type: chapter
   author:
@@ -380,3 +392,36 @@ wobbrock_anova_2011:
     publisher:
       name: ACM
       location: Vancouver, BC, Canada
+sun_abstract_syntax_tree_2023:
+  type: misc
+  title: 'Abstract Syntax Tree for Programming Language Understanding and Representation: How Far Are We?'
+  author:
+  - Sun, Weisong
+  - Fang, Chunrong
+  - Miao, Yun
+  - You, Yudu
+  - Yuan, Mengzhe
+  - Chen, Yuchen
+  - Zhang, Quanjun
+  - Guo, An
+  - Chen, Xiang
+  - Liu, Yang
+  - Chen, Zhenyu
+  date: 2023
+  url: https://arxiv.org/abs/2312.00413
+  serial-number:
+    arxiv: '2312.00413'
+stryker_what_are_llms_2021:
+  type: web
+  author:
+    - Stryker, Cole
+  title: "What Are Large Language Models (LLMs)?"
+  container-title: IBM
+  publisher: IBM
+  issued:
+    date-parts:
+      - [2021, 10, 6]
+  accessed:
+    date-parts:
+      - [2026, 6, 24]
+  url: "https://www.ibm.com/think/topics/large-language-models"
