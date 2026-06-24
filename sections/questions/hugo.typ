@@ -10,7 +10,7 @@
 
     Before this paper, research was mainly focused on the performance, readability, and maintainability of LLM-generated code. Energy efficiency has received (far less) attention in prior research, while software sustainability and Green AI are becoming more important in research and industry.
     If LLM-generated code is systematically less energy-efficient than code by human developers, then widespread adoption of tools using these LLMs leads to large-scale energy waste.
-    Before being able to investigate $R Q_2$ and $R Q_3$, we first must understand how LLM-generated code performs relative to human-written code ($R Q_1$), as a baseline.
+    Before being able to investigate $R Q_2$ and $R Q_3$, we must first understand how LLM-generated code performs relative to human-written code ($R Q_1$), as a baseline.
     Answering this question shows whether a gap in energy efficiency exists between human-written and LLM-generated code. If such a gap exists, it shows that efforts should be made to improve the energy efficiency of LLM-generated code.
     If not, then the industry can rely on LLMs without concerns about energy waste.
   ],
@@ -30,7 +30,7 @@
     "1": [
       The canonical solutions from EvoEval are only a single implementation per problem: the details of the writer and the environment in which it was produced are unknown. The human side of comparison is therefore small and maybe unrepresentative.
       An alternative is to recruit multiple developers and let them independently solve the same problem. Varying in experience, coding style, and optimization skills to generalize more.
-      Downside is that recruiting is very time-consuming (as Justus Bogner stated in his guest lecture), adds confounding factors (program language proficiency differences, energy-efficiency awareness), which are avoided by canonical solutions.
+      The downside is that recruiting is very time-consuming (as Justus Bogner stated in his guest lecture), adds confounding factors (program language proficiency differences, energy-efficiency awareness), which are avoided by canonical solutions.
       Dilemma: canonical solutions have higher reproducibility (you can take the exact same solutions in a retry) but lower representativeness. Recruiting developers reflects real-world conditions better but has lower experimental control.
     ],
     "2": [

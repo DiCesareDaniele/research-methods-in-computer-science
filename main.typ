@@ -11,10 +11,10 @@
   marker: ([•], [◦], [–]),
 )
 
-#pagebreak()
-
 // force this citation to be first
-#let _ = cite(<eec_via_llms>)
+#hide(cite(<eec_via_llms>))
+
+#pagebreak()
 
 #include "sections/introduction.typ"
 #include "sections/questions.typ"

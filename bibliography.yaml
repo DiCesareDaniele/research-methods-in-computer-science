@@ -72,28 +72,6 @@ haoli_mobile_consumption_2013:
     issue: ''
     volume: 0
 
-pinto_efficiency_2014:
-  type: article
-  title: Understanding energy behaviors of thread management constructs
-  author:
-  - Pinto, Gustavo
-  - Castor, Fernando
-  - Liu, Yu David
-  date: 2014-10
-  page-range: 345-360
-  url:
-    value: https://dl.acm.org/doi/10.1145/2660193.2660235
-    date: 2026-06-12
-  serial-number:
-    doi: 10.1145/2660193.2660235
-    isbn: '9781450325851'
-  parent:
-    type: proceedings
-    title: Proceedings of the 2014 {ACM} {International} {Conference} on {Object} {Oriented} {Programming} {Systems} {Languages} & {Applications}
-    publisher:
-      name: ACM
-      location: Portland Oregon USA
-
 eec_via_llms:
   type: misc
   title: Generating Energy-Efficient Code via Large-Language Models – Where are we now?
@@ -215,7 +193,6 @@ islam_evaluating_2025:
   serial-number:
     arxiv: "2505.20324"
 
-
 lacher_performance_llm_code_2026:
   type: chapter
   author:
@@ -233,8 +210,6 @@ ssrn_6810423:
   type: web
   title: "SSRN Paper 6810423"
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810423"
-
-
 
 xia_top_leaderboard_2024:
   type: misc
@@ -286,3 +261,104 @@ bhattacherjee_social_science_2012:
   collection-title: Textbooks Collection
   collection-number: 3
   url: http://scholarcommons.usf.edu/oa_textbooks/3
+
+ali_sustainable_2026:
+  type: misc
+  title: 'Sustainable Code Generation Using Large Language Models: A Systematic Literature Review'
+  author:
+  - Ali, Sabiya Banu Masthan
+  - Kirmani, Oussema
+  - Hameed, Aroosa
+  - Danish, Syed Muhammad
+  - Srivastava, Gautam
+  date: 2026
+  url: https://arxiv.org/abs/2603.00989
+  serial-number:
+    arxiv: '2603.00989'
+
+gem5_simulator_2020:
+  type: misc
+  title: 'The gem5 Simulator: Version 20.0+'
+  author:
+  - Lowe-Power, Jason
+  - Ahmad, Abdul Mutaal
+  - Akram, Ayaz
+  - Alian, Mohammad
+  - Amslinger, Rico
+  - Andreozzi, Matteo
+  - Armejach, Adrià
+  - Asmussen, Nils
+  - Beckmann, Brad
+  - Bharadwaj, Srikant
+  - Black, Gabe
+  - Bloom, Gedare
+  - Bruce, Bobby R.
+  - Carvalho, Daniel Rodrigues
+  - Castrillon, Jeronimo
+  - Chen, Lizhong
+  - Derumigny, Nicolas
+  - Diestelhorst, Stephan
+  - Elsasser, Wendy
+  - Escuin, Carlos
+  - Fariborz, Marjan
+  - Farmahini-Farahani, Amin
+  - Fotouhi, Pouya
+  - Gambord, Ryan
+  - Gandhi, Jayneel
+  - Gope, Dibakar
+  - Grass, Thomas
+  - Gutierrez, Anthony
+  - Hanindhito, Bagus
+  - Hansson, Andreas
+  - Haria, Swapnil
+  - Harris, Austin
+  - Hayes, Timothy
+  - Herrera, Adrian
+  - Horsnell, Matthew
+  - Jafri, Syed Ali Raza
+  - Jagtap, Radhika
+  - Jang, Hanhwi
+  - Jeyapaul, Reiley
+  - Jones, Timothy M.
+  - Jung, Matthias
+  - Kannoth, Subash
+  - Khaleghzadeh, Hamidreza
+  - Kodama, Yuetsu
+  - Krishna, Tushar
+  - Marinelli, Tommaso
+  - Menard, Christian
+  - Mondelli, Andrea
+  - Moreto, Miquel
+  - Mück, Tiago
+  - Naji, Omar
+  - Nathella, Krishnendra
+  - Nguyen, Hoa
+  - Nikoleris, Nikos
+  - Olson, Lena E.
+  - Orr, Marc
+  - Pham, Binh
+  - Prieto, Pablo
+  - Reddy, Trivikram
+  - Roelke, Alec
+  - Samani, Mahyar
+  - Sandberg, Andreas
+  - Setoain, Javier
+  - Shingarov, Boris
+  - Sinclair, Matthew D.
+  - Ta, Tuan
+  - Thakur, Rahul
+  - Travaglini, Giacomo
+  - Upton, Michael
+  - Vaish, Nilay
+  - Vougioukas, Ilias
+  - Wang, William
+  - Wang, Zhengrong
+  - Wehn, Norbert
+  - Weis, Christian
+  - Wood, David A.
+  - Yoon, Hongil
+  - Zulian, Éder F.
+  date: 2020
+  url: https://arxiv.org/abs/2007.03152
+  serial-number:
+
