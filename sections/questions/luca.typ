@@ -25,7 +25,7 @@
 
     These original prompts that will create the functional solutions will also be used to create different types of prompts. As this is not highly relevant for this specific research question, we won't dive deeper into what these different prompts represent. If a solution generated from an LLM, for a specific prompt, proves not to be correct after 6 reprompts, that specific solution will be removed from the analysis. Once again, the solutions will be verified against the extracted test cases from EvoVal to see if they will be correct. All the remaining solutions will be executed on three hardware platforms that we chose, with the purpose of strengthening the external validity by offering results accross a wide spectrum of hardware specifications.
 
-    We will calculate a number $X_p^m$ (m - hardware machine, p - problem) of iterations with the purpose of achieving a runtime of 3 minutes. On each machine m, all test cases will be executed for each variant of a solution to problem p for $X_p^m$ iterations. Each of these runs will be repeated 21 times on each hardware platform.
+    We will calculate a number $X_p^m$ (m - hardware machine, p - problem) of iterations with the purpose of achieving a runtime of 3 minutes. On each machine m, all test cases will be executed for each variant of a solution to problem p for $X_p^m$ iterations. Each of these runs will be repeated 21 times on each hardware platform. This approach ensures that we will have sufficient energy samples to conduct the analysis.
   ],
   "D": (
     "1": [
