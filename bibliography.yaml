@@ -223,6 +223,21 @@ ssrn_6810423:
   title: "SSRN Paper 6810423"
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6810423"
 
+taxonomy_inefficiencies_llmgenerated_python:
+  type: misc
+  title: "A Taxonomy of Inefficiencies in LLM-Generated Python Code"
+  author: 
+    - Altaf Allah, Abbassi  
+    - Da Silva, Leuson 
+    - Amin Nikanjam
+    - Foutse Khomh
+  date: 2025
+  url: https://arxiv.org/abs/2503.06327
+  serial-number:
+    arxiv: "2503.06327"
+
+
+
 xia_top_leaderboard_2024:
   type: misc
   title: "Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving Coding Benchmarks via LLM"
