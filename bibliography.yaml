@@ -362,3 +362,21 @@ gem5_simulator_2020:
   url: https://arxiv.org/abs/2007.03152
   serial-number:
 
+wobbrock_anova_2011:
+  type: article
+  title: The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures
+  author:
+  - Wobbrock, Jacob O.
+  - Findlater, Leah
+  - Gergle, Darren
+  - Higgins, James J.
+  date: 2011
+  page-range: 143-146
+  serial-number:
+    doi: 10.1145/1978942.1978963
+  parent:
+    type: proceedings
+    title: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11)
+    publisher:
+      name: ACM
+      location: Vancouver, BC, Canada
