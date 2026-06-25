@@ -11,7 +11,7 @@
   ],
   "C": [
     We aim to select the top 6 accessible, unique LLMs in the difficult category of the EvoVal leaderboard, as of July 2024, based on two main criteria:
-    
+
     - *Accessbility:* the model is either open-source of available through API.
     - *Uniqueness:* the model uses a different base model compared to the other already-chosen LLMs.
 
@@ -45,7 +45,7 @@
       Personally, when it comes to measuring energy efficiency, in order to provide exact measurements of energy consumption, I would choose the original methodology. I consider that for this specific purpose, the results are a lot more generalizable and accurate, even though the effort and hours of execution are quite significant. However, when it comes to the problem selection and analysing multiple benchmark sets, I think the alternative methodology would provide more useful results.
     ],
     "2": [
-        Literature support can be found at @goyal_energy_estimation_2026, in which the authors introduce EnCoDe, a methodology for estimating the energy consumption of source code at design time, by training a machine learning model on a dataset consisting of code blocks extracted from over 18,000 Python programs, which are measured for energy consumption using a measurement methodology called PowerLens, which the authors also introduce in the same paper. Moreover, @islam_evaluating_2025 was also used in the process of creating the alternative methodology. Here, the authors gathered multiple open-source and closed-source LLMs from different companies, like Mistral, Google, Meta, and Amazon, and compared all the LLMs with each other, and also with canonical human-written solutions, in terms of the energy efficiency of the code that is produced by them. In the study, the LLMs are prompted to generate solutions for 878 programming problems that vary in difficulty and algorithmic categories, gathered from the widely known platform Leetcode.
+      Literature support can be found at @goyal_energy_estimation_2026, in which the authors introduce EnCoDe, a methodology for estimating the energy consumption of source code at design time, by training a machine learning model on a dataset consisting of code blocks extracted from over 18,000 Python programs, which are measured for energy consumption using a measurement methodology called PowerLens, which the authors also introduce in the same paper. Moreover, @islam_evaluating_2025 was also used in the process of creating the alternative methodology. Here, the authors gathered multiple open-source and closed-source LLMs from different companies, like Mistral, Google, Meta, and Amazon, and compared all the LLMs with each other, and also with canonical human-written solutions, in terms of the energy efficiency of the code that is produced by them. In the study, the LLMs are prompted to generate solutions for 878 programming problems that vary in difficulty and algorithmic categories, gathered from the widely known platform Leetcode.
     ],
   ),
 )

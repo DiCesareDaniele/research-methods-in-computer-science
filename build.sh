@@ -2,7 +2,7 @@
 
 group="Group18"
 course="research_methods_in_cs"
-version="draft_2"
+version="final"
 output="${group}_${course}_${version}.pdf"
 
 build_dir="build"
